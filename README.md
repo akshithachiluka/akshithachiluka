@@ -6,7 +6,7 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akshitha-chiluka-b19245259/">Akshitha Chiluka</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-<img align="right" src="https://github.com/your-profile-image-link" alt="Profile Image" width="300"/>
+<img align="right" src="Purple Gradient Liquid Computer Class Google Classroom Header.jpg" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently Learning:** More about Generative AI<br>
 - 👯 **Looking to Collaborate On:** Real World Projects<br>
